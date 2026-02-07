@@ -1,0 +1,14 @@
+rumourId,topic,source,createdDate,credibilityScore,status,verifiedResult
+12345678,เครื่องดื่มยี่ห้อดังปนเปื้อน,Facebook,2026-02-01,35,PANIC,TRUE_INFO
+23456789,น้ำประปาจะหยุดจ่ายทั้งเมือง,TikTok,2026-02-02,40,PANIC,UNVERIFIED
+34567891,มีแผ่นดินไหวใหญ่คืนนี้,Line,2026-02-03,20,PANIC,TRUE_INFO
+45678912,ไฟดับยาว 3 วันแน่นอน,Twitter,2026-02-03,50,NORMAL,UNVERIFIED
+56789123,วัคซีนล็อตใหม่อันตราย,Facebook,2026-02-04,25,NORMAL,UNVERIFIED
+67891234,ธนาคารจะล่มพรุ่งนี้เช้า,YouTube,2026-02-04,30,PANIC,TRUE_INFO
+78912345,พบสัตว์มีพิษหลุดในสวนสาธารณะ,NewsBlog,2026-02-05,55,PANIC,UNVERIFIED
+89123456,โรงเรียนจะปิดกะทันหัน,Line,2026-02-05,45,NORMAL,FALSE_INFO
+91234567,อาหารเสริมยี่ห้อดังมีสารอันตราย,Instagram,2026-02-06,15,NORMAL,UNVERIFIED
+91234568,ระบบขนส่งสาธารณะฟรีตลอดปี,TikTok,2026-02-06,60,NORMAL,UNVERIFIED
+92345678,น้ำมันจะขึ้นราคาถึงลิตรละ 100 บาท,Facebook,2026-02-07,70,NORMAL,UNVERIFIED
+93456789,พบเชื้อโรคในผักผลไม้ทั่วไป,Twitter,2026-02-07,80,NORMAL,UNVERIFIED
+94567891,การไฟฟ้าจะขึ้นค่าไฟ 50%,YouTube,2026-02-08,90,NORMAL,UNVERIFIED
